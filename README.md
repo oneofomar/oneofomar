@@ -15,6 +15,5 @@ LinkedIn: (Omar Al Murazza)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=oneofomar&theme=dark&layout=donut&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&hide_border=true&langs_count=5&custom_title=My%20Top%20Languages&hide=html,css,scss&langs_colors=8f14e9,E34F26,3572A5,F1E05A,F34B7D)
 
-### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
